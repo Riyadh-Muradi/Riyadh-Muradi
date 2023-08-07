@@ -3,6 +3,7 @@
 </div>
 I'm Riyadh Muradi i go by Diar, I'm 18. From Iran/Iraq currently based in Finland.
 <br>
+
 Skills and things im learning
 <br>
 ![Currently Learning](https://skillicons.dev/icons?i=java,javascript,html,css,python,idea,vscode,visualstudio)
@@ -12,5 +13,3 @@ Skills and things im learning
 </div>
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahticc&theme=github-compact)
-
-
