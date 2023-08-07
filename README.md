@@ -4,7 +4,7 @@
 I'm Riyadh Muradi i go by Diar, I'm 18. From Iran/Iraq currently based in Finland.
 <p> </p>
 
-Skills and things im learning<p> </p>
+Skills and things im learning
 ![Currently Learning](https://skillicons.dev/icons?i=java,javascript,html,css,python,idea,vscode,visualstudio)
 <div align="center"> 
   <h2>Graph of my work activity</h1>
