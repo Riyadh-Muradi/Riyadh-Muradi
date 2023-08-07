@@ -3,9 +3,9 @@
 </div>
 I'm Riyadh Muradi but i got by Diar, I'm 18. From Iran/Iraq currently based in Finland.
 
-[![Currently Learning](https://skillicons.dev/icons?i=java,javascript,html,css,python,idea,vscode,visualstudio,github)]
+![Currently Learning](https://skillicons.dev/icons?i=java,javascript,html,css,python,idea,vscode,visualstudio)
 <div align="center"> 
   <h2>Graph of my work activity</h1>
 </div>
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahticc&theme=github-compact)]
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahticc&theme=github-compact)
