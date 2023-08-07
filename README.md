@@ -4,7 +4,7 @@
 I'm Riyadh Muradi but i got by Diar, I'm 18. From Iran/Iraq currently based in Finland. You can find my work here:<a href="https://github.com/Ahticc?tab=repositories">(Works)</a>.
 <p> </p>
 
-[![Currently Learning](https://skillicons.dev/icons?i=java,html,css,python,idea,vscode,visualstudio,github)](https://skillicons.dev)
+[![Currently Learning](https://skillicons.dev/icons?i=java,js,javascript,html,css,python,idea,vscode,visualstudio,github)]
 <div align="center"> 
   <h2>Graph of my work activity</h1>
 </div>
