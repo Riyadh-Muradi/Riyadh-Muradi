@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Activly using:</h2>
+<h2 align="left">Actively using:</h2>
 
 ###
 
