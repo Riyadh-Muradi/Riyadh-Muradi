@@ -1,5 +1,5 @@
 ###
-![Riyadh-Muradi](https://readme-typing-svg.herokuapp.com/?size=40&color=ffffff&vCenter=false&height=100&lines=Riyadh)
+![Riyadh-Muradi](https://readme-typing-svg.herokuapp.com/?size=80&color=ffffff&vCenter=false&height=80&lines=Riyadh)
 
 <h1 align="center">Riyadh Muradi (Diar)</h1>
 
