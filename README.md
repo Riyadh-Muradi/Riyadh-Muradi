@@ -1,4 +1,5 @@
 ###
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hubot+San&size=80&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=1100&height=100&lines=Riyadh+Muradi)(https://github.com/Riyadh-Muradi))
 
 ![Riyadh-Muradi](https://readme-typing-svg.herokuapp.com?font=Hubot+San&size=80&pause=500&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=1000&height=100&lines=Riyadh+Muradi)
 
