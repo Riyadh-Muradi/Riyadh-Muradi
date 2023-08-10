@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Riyadh Muradi but I go by Diar, I'm 18 and studying software engineering in a vocational school.<br>I'm based in Finland and have been living here since 2015, I'm fluent in Finnish and some other languages such as Kurdish and English I know the basics of a few other languages but rarely used them so I've forgotten the majority of them.<br><br>I mostly code in HTML, CSS, and Javascript, I'm mostly learning Java, Python, React, and C#.<br><br>I would consider myself a decent Graphics Designer and Video Editor, knowing After Effects, Premiere Pro, and Photoshop. I use After Effects and Photoshop as my main Software.</p>
+<p align="left">I'm Riyadh Muradi but I go by Diar, I'm 18 and studying software engineering in a vocational school.<br>I'm based in Finland and have been living here since 2015, I'm fluent in Finnish and some other languages such as Kurdish and English I know the basics of a few other languages but rarely used them so I've forgotten the majority of them.<br><br>I mostly code in HTML, CSS, and Javascript, I'm mostly learning Java, Python, React, and C#.<br><br>I would consider myself a decent Graphics Designer and Video Editor, knowing After Effects, Premiere Pro, and Photoshop. I use After Effects and Photoshop as my main Softwares.</p>
 
 ###
 
