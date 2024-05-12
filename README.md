@@ -60,6 +60,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
 </div>
 
