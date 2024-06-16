@@ -39,7 +39,7 @@
 
 ###
 
-<h2 align="left">Currently learning/Intrested in:</h2>
+<h2 align="left">Currently learning and intrested in:</h2>
 
 ###
 
