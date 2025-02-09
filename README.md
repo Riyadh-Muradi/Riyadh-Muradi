@@ -10,29 +10,7 @@
 ```
 
 ````typescript
-interface Developer {
-  name: string;
-  alias: string;
-  age: number;
-  location: {
-    country: string;
-    since: number;
-  };
-  education: string;
-  languages: string[];
-}
-
-interface TechStack {
-  activelyUsing: {
-    frontend: string[];
-    backend: string[];
-    database: string[];
-    tools: string[];
-    design: string[];
-  };
-  learning: string[];
-  wantToLearn: string[];
-}
+import type { Developer, TechStack } from '@/types';
 
 const aboutMe: Developer = {
   name: "Riyadh Muradi",
