@@ -56,7 +56,7 @@ const techStack: TechStack = {
   learning: [
     "PostgreSQL",
     "MongoDB",
-    "Supabse",
+    "Supabase",
     "Typescript",
     "Motion (Framer Motion",
     "SQL",
