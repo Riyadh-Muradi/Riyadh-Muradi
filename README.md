@@ -15,7 +15,7 @@ import type { Developer, TechStack } from '@/types';
 const aboutMe: Developer = {
   name: "Riyadh Muradi",
   alias: "Diar",
-  age: 19,
+  age: 20,
   location: {
     country: "Finland",
     since: 2015
@@ -34,18 +34,16 @@ const techStack: TechStack = {
       "Motion (Framer Motion)",
       "shadcn/ui"
     ],
-    backend: [
+    backendAndDatabase: [
       "Node.js",
-      "Express"
-    ],
-    database: [
+      "Express",
       "Supabase (PostgreSQL)",
-      "MongoDB"
+      "MongoDB",
+      "Drizzle ORM"
     ],
     tools: [
       "Git",
-      "Docker",
-      "Drizzle ORM"
+      "Docker"
     ],
     design: [
       "Adobe After Effects",
@@ -54,18 +52,17 @@ const techStack: TechStack = {
     ]
   },
   learning: [
+    "C++",
     "PostgreSQL",
     "MongoDB",
     "Supabase",
-    "Typescript",
-    "Motion (Framer Motion",
-    "SQL",
-    "Zustand"
+    "TypeScript",
+    "Motion (Framer Motion)",
+    "SQL"
   ],
   wantToLearn: [
     "Java",
     "Kotlin",
-    "Lua",
     "AWS"
   ]
 }
